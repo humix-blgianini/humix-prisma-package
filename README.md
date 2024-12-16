@@ -1,0 +1,1 @@
+# humix-prisma-package
